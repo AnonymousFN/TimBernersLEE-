@@ -1,0 +1,91 @@
+body {text-align: center;}
+
+#WELCOME {
+    text-align: center;
+    height: 800px;
+    color: aqua;
+    background: linear-gradient(lime, blue);
+    width: 100%;
+    display: table;
+    z-index: 45;
+
+}
+
+.PNG {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.TomthyOnfire {
+    font-family: cursive;
+    font-size: 57px;
+}
+
+.img {
+    border-radius: 60px;
+}
+
+.Underline {
+    height: 5px;
+    width: 75px;
+    background-color: chocolate;
+    margin: 9.500px auto;
+}
+
+#bio {
+    text-align: center;
+    font-family: cursive;
+}
+
+.xcc {
+list-style: none;
+top:10px;
+right:30px;
+position: fixed;
+cursor:pointer;
+z-index: 67;
+background-color: white;
+width:100%;
+
+    
+    
+    
+}
+#contacts a { text-shadow: none!important ; text-decoration: underline!important; color: blue!important; }
+a{text-shadow:2px 2px black;
+    
+}
+.mug:hover{
+font-size:25px;
+text-decoration:underline;
+
+
+    
+    
+}
+
+.mug {
+display: inline;
+font-size:20px;
+padding-left:35px;
+padding-right: 35px;
+font-family: fantasy;
+
+    
+    
+}
+.mynavbar{
+    
+position:fixed;
+top:0;
+z-index:9999;
+width:100%;
+    
+    
+    
+}
+
+#abc{width:25px;
+height:25px;
+}
